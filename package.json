@@ -1,0 +1,29 @@
+{
+  "name": "Api-NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FreshPhp.",
+  "license": "",
+  "engines": {
+    "node": ">=18.0.1",
+    "npm": "<=8.12.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "base-64": "^1.0.0",
+    "base32": "0.0.6",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  },
+  "homepage": "https://github.com/FreshPhp/Api-NodeJS"
+}
