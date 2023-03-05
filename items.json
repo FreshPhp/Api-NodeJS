@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "A powerful smartphone with a large screen and long battery life",
+        "price": 799.99,
+        "category": "Electronics",
+        "image": "https://example.com/images/smartphone.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "description": "A high-performance laptop for demanding users",
+        "price": 1299.99,
+        "category": "Electronics",
+        "image": "https://example.com/images/laptop.jpg"
+      }
+]
